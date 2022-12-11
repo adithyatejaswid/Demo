@@ -1,0 +1,71 @@
+            * {
+                width: 60%;
+            }
+            
+            .hi {
+                display: block;
+                text-align: right;
+            }
+            
+            .demo4 {
+                position: relative;
+                display: block;
+                margin-left: 2%;
+                text-align: justify;
+                margin-right: 1%;
+            }
+            
+            .demo5 {
+                float: right;
+                left: 7%;
+                border-radius: 5%;
+                height: 90%;
+                max-width: 70%;
+                margin-right: 2%;
+            }
+            
+             ::placeholder {
+                position: absolute;
+                padding-bottom: 50%;
+            }
+            
+            #demo1 {
+                margin-top: 20px;
+                margin-left: 3%;
+            }
+            
+            a {
+                left: 13%;
+                display: block;
+                margin-left: 48.5%;
+                margin-top: 3%;
+            }
+            
+            .flex {
+                display: flex;
+                width: 100%;
+                height: 15rem;
+            }
+            
+            .main {
+                width: 100%;
+                margin-left: 80%;
+                margin-top: 20%;
+                background-color: bisque;
+                border-radius: 5%;
+                padding-bottom: 10%;
+                height: 100%;
+            }
+            
+            .hello {
+                margin-left: 3%;
+            }
+            
+            button {
+                width: 20%;
+                border-radius: 10%;
+                border-color: rgb(110, 105, 105);
+                margin-left: 3%;
+                display: flex;
+                margin-top: 3%;
+            }
